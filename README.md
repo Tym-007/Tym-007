@@ -56,20 +56,6 @@ Engaged in social activities and supporting local initiatives.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tym-007&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tym-007&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Tym-007&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Institution | Field of Study | Period |
