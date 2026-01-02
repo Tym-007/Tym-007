@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I am a distinguished professional at the intersection of law, technology, and entrepreneurship. With a strong foundation in legal studies and expertise in software engineering, I develop cutting-edge technological solutions that bridge the gap between legal practice and innovation. My work focuses on creating intelligent systems for legal document analysis, regulatory compliance, and AI-powered applications that transform how legal professionals interact with technology.
+I am a distinguished professional at the intersection of law, technology, entrepreneurship, and music. With a strong foundation in legal studies, expertise in software engineering, and a deep specialization in the works of Frédéric Chopin, I bring a unique multidisciplinary perspective to every project. My work focuses on creating intelligent systems for legal document analysis, regulatory compliance, and AI-powered applications that transform how legal professionals interact with technology. The discipline, creativity, and precision cultivated through years of musical training—particularly in mastering Chopin's complex and emotionally rich compositions—enhance my approach to problem-solving and innovation in both legal and technological domains.
 
 ---
 
@@ -44,11 +44,31 @@ I architect and develop sophisticated software solutions with expertise spanning
   - **Semantic Search**: Advanced embeddings and vector similarity search
   - **NLP for Legal Documents**: Specialized natural language processing for regulatory compliance
 
-### 🎹 Pianist
-- **Music education**:
-  - State Music School II Degree in Żywiec (Class of 2022)
-  - State Music School I Degree named after Witold Rowicki in Żywiec (Class of 2016)
-- Passion for classical music
+### 🎹 Concert Pianist & Music Educator
+
+Music has been a fundamental part of my life and artistic journey, shaping my discipline, creativity, and attention to detail that I bring to all my professional endeavors.
+
+- **Comprehensive Music Education**:
+  - **State Music School II Degree in Żywiec** (Class of 2022)
+    - Advanced piano performance and technique
+    - Specialized knowledge in music theory, harmony, and composition
+    - Mastery of classical repertoire spanning Baroque to Contemporary periods
+  - **State Music School I Degree named after Witold Rowicki in Żywiec** (Class of 2016)
+    - Foundation in music theory and piano fundamentals
+    - Development of technical proficiency and musical expression
+    - Early exposure to diverse musical styles and composers
+
+- **Artistic Excellence & Specialization**:
+  - **Chopin Specialist**: Deep expertise in the works of Frédéric Chopin, one of the greatest composers for the piano
+  - Mastery of Chopin's complete repertoire including études, nocturnes, mazurkas, polonaises, preludes, and concertos
+  - Dedicated performer with profound understanding of Chopin's unique style, rubato, and emotional expression
+  - Years of disciplined practice and performance experience focused on Romantic period interpretation
+  - Integration of musical artistry with analytical thinking and precision
+
+- **The Harmony of Disciplines**:
+  - Music enhances my approach to problem-solving and creative thinking in technology
+  - The discipline and focus required in piano performance translate to excellence in software development
+  - Musical structure and harmony inform my understanding of system architecture and design patterns
 
 ### 🌱 Philanthropist
 Engaged in social activities and supporting local initiatives.
@@ -94,7 +114,7 @@ Engaged in social activities and supporting local initiatives.
 - ⚖️ **Legal Technology**: Pioneering the integration of AI and machine learning in legal practice
 - 💻 **Software Innovation**: Building scalable, enterprise-grade applications
 - 🤖 **Artificial Intelligence**: Advanced ML models for legal document processing and compliance
-- 🎹 **Classical Music**: Cultivating artistic excellence alongside technical expertise
+- 🎹 **Classical Music & Chopin Specialization**: A lifelong passion specializing in the works of Frédéric Chopin. This deep musical expertise enriches my professional work through enhanced discipline, creativity, and analytical thinking. Years of dedicated study and performance of Chopin's masterpieces have shaped my approach to precision, structure, emotional depth, and artistic expression in all endeavors.
 - 🌍 **Social Impact**: Leveraging technology for positive change through philanthropic initiatives
 - 📚 **Continuous Innovation**: Staying at the forefront of legal and technological advancements
 
@@ -102,11 +122,11 @@ Engaged in social activities and supporting local initiatives.
 
 <div align="center">
 
-⭐ *"Bridging the gap between law and technology, I create innovative solutions that transform legal practice and drive meaningful change."*
+⭐ *"Bridging the gap between law, technology, and music, I create innovative solutions that transform legal practice and drive meaningful change. The harmony of disciplines—legal precision, technological innovation, and musical artistry—defines my unique approach to professional excellence."*
 
 ---
 
-**Tymoteusz Mytych Forst** | Entrepreneur | Legal Professional | Technology Innovator
+**Tymoteusz Mytych Forst** | Entrepreneur | Legal Professional | Technology Innovator | Concert Pianist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge)
 
