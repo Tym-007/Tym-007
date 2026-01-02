@@ -61,9 +61,9 @@ Engaged in social activities and supporting local initiatives.
 | Institution | Field of Study | Period |
 |------------|----------|-------|
 | **University of Warmia and Mazury in Olsztyn** | Law (unified master's degree) | 2022 - present |
-| **I General Secondary School named after Nicolaus Copernicus in Żywiec** | - | Class of 2022 |
-| **State Music School II Degree in Żywiec** | - | Class of 2022 |
-| **State Music School I Degree named after Witold Rowicki in Żywiec** | - | Class of 2016 |
+| **I General Secondary School named after Nicolaus Copernicus in Żywiec** | Extended knowledge in mathematics, physics, and computer science | Class of 2022 |
+| **State Music School II Degree in Żywiec** | Specialized knowledge in music theory and piano playing skills | Class of 2022 |
+| **State Music School I Degree named after Witold Rowicki in Żywiec** | Basic knowledge in music theory and piano playing skills | Class of 2016 |
 
 ---
 
