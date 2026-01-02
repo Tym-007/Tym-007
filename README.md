@@ -6,21 +6,13 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tymoteusz.mytych)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge)
-
 ---
 
 </div>
 
-## 👋 About Me
+## 🎯 About Me
 
-<div align="center">
-
-I am a distinguished professional at the intersection of law, technology, entrepreneurship, and music. With a strong foundation in legal studies, expertise in software engineering, and a deep specialization in the works of Frédéric Chopin, I bring a unique multidisciplinary perspective to every project.
-
-</div>
-
-My work focuses on creating intelligent systems for legal document analysis, regulatory compliance, and AI-powered applications that transform how legal professionals interact with technology. The discipline, creativity, and precision cultivated through years of musical training—particularly in mastering Chopin's complex and emotionally rich compositions—enhance my approach to problem-solving and innovation in both legal and technological domains.
+I am a distinguished professional at the intersection of law, technology, entrepreneurship, and music. With a strong foundation in legal studies, expertise in software engineering, and a deep specialization in the works of Frédéric Chopin, I bring a unique multidisciplinary perspective to every project. My work focuses on creating intelligent systems for legal document analysis, regulatory compliance, and AI-powered applications that transform how legal professionals interact with technology. The discipline, creativity, and precision cultivated through years of musical training—particularly in mastering Chopin's complex and emotionally rich compositions—enhance my approach to problem-solving and innovation in both legal and technological domains.
 
 ---
 
@@ -96,48 +88,28 @@ Engaged in social activities and supporting local initiatives.
 
 ## 🛠️ Technical Expertise
 
-### Programming Languages
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### Frameworks & Technologies
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
-### Core Competencies
-
-<div align="left">
-
-- **🤖 AI/ML**: RAG Systems, LLM Integration, Semantic Search, NLP, Vector Databases
-- **⚙️ Backend Development**: Python, FastAPI, RESTful APIs, Microservices Architecture, Database Design
-- **🎨 Frontend Development**: HTML5, CSS3, JavaScript, Streamlit, Responsive Design
-- **📱 Mobile Development**: iOS Native (Swift, SwiftUI), Core Data, App Store Deployment
-- **⚖️ Legal Technology**: Regulatory compliance systems, document analysis automation, AI-powered legal tools
-
-</div>
+**Core Competencies:**
+- **AI/ML**: RAG Systems, LLM Integration, Semantic Search, NLP
+- **Backend Development**: Python, FastAPI, RESTful APIs, Database Design
+- **Frontend Development**: HTML5, CSS3, JavaScript, Streamlit
+- **Mobile Development**: iOS Native (Swift, SwiftUI)
+- **Legal Technology**: Regulatory compliance systems, document analysis automation
 
 ---
 
 ## 💡 Professional Interests
-
-<div align="left">
 
 - ⚖️ **Legal Technology**: Pioneering the integration of AI and machine learning in legal practice
 - 💻 **Software Innovation**: Building scalable, enterprise-grade applications
@@ -145,18 +117,6 @@ Engaged in social activities and supporting local initiatives.
 - 🎹 **Classical Music & Chopin Specialization**: A lifelong passion specializing in the works of Frédéric Chopin. This deep musical expertise enriches my professional work through enhanced discipline, creativity, and analytical thinking. Years of dedicated study and performance of Chopin's masterpieces have shaped my approach to precision, structure, emotional depth, and artistic expression in all endeavors.
 - 🌍 **Social Impact**: Leveraging technology for positive change through philanthropic initiatives
 - 📚 **Continuous Innovation**: Staying at the forefront of legal and technological advancements
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tym-007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
@@ -167,6 +127,8 @@ Engaged in social activities and supporting local initiatives.
 ---
 
 **Tymoteusz Mytych Forst** | Entrepreneur | Legal Professional | Technology Innovator | Concert Pianist
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge)
 
 </div>
 
