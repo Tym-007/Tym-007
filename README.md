@@ -12,7 +12,11 @@
 
 ## 🎯 About Me
 
-I am a distinguished professional at the intersection of law, technology, entrepreneurship, and music. With a strong foundation in legal studies, expertise in software engineering, and a deep specialization in the works of Frédéric Chopin, I bring a unique multidisciplinary perspective to every project. My work focuses on creating intelligent systems for legal document analysis, regulatory compliance, and AI-powered applications that transform how legal professionals interact with technology. The discipline, creativity, and precision cultivated through years of musical training—particularly in mastering Chopin's complex and emotionally rich compositions—enhance my approach to problem-solving and innovation in both legal and technological domains.
+I'm a professional who thrives at the unique intersection of law, technology, entrepreneurship, and music. My journey combines rigorous legal studies, hands-on software engineering experience, and a deep passion for the works of Frédéric Chopin—creating a perspective that's both analytical and creative.
+
+In my work, I build intelligent systems that help legal professionals navigate complex regulations and documents more effectively. From AI-powered legal assistants to regulatory compliance tools, I focus on creating solutions that make a real difference in how law and technology work together.
+
+What makes my approach unique? Years of studying and performing Chopin's compositions have taught me that true mastery comes from balancing technical precision with emotional depth. This philosophy translates directly into my work: whether I'm architecting a complex AI system or analyzing legal frameworks, I bring the same attention to detail, creative problem-solving, and dedication to excellence that I've cultivated at the piano.
 
 ---
 
