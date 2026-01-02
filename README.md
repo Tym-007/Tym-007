@@ -7,7 +7,7 @@
 **Entrepreneur | Lawyer | Pianist | Software Engineer | Philanthropist**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tymoteusz.mytych)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tymoteusz.mytych@gmail.com)
 
 ---
 
@@ -60,11 +60,11 @@ Engaged in social activities and supporting local initiatives.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tym-007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tym-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Tym-007&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -99,7 +99,7 @@ Engaged in social activities and supporting local initiatives.
 **I invite you to collaborate and exchange experiences!**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tymoteusz.mytych)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tymoteusz.mytych@gmail.com.com)
 
 ---
 
@@ -113,7 +113,7 @@ Engaged in social activities and supporting local initiatives.
 
 **Made by Tymoteusz Mytych Forst**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge)
 
 </div>
 
