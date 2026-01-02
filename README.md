@@ -126,7 +126,7 @@ Engaged in social activities and supporting local initiatives.
 
 <div align="center">
 
-⭐ *"Bridging the gap between law, technology, and music, I create innovative solutions that transform legal practice and drive meaningful change. The harmony of disciplines—legal precision, technological innovation, and musical artistry—defines my unique approach to professional excellence."*
+⭐ *"Bridging the gap between law, technology, and music, I create innovative solutions that transform legal practice and drive meaningful change. The harmony of disciplines legal precision, technological innovation, and musical artistry defines my unique approach to professional excellence."*
 
 ---
 
