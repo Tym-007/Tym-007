@@ -60,11 +60,11 @@ Engaged in social activities and supporting local initiatives.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tym-007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tym-007&show_icons=true&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tym-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tym-007&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Tym-007&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Tym-007&theme=radical&hide_border=true)
 
 </div>
 
@@ -113,7 +113,7 @@ Engaged in social activities and supporting local initiatives.
 
 **Made by Tymoteusz Mytych Forst**
 
-<img src="https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Tym-007&color=58A6FF&style=for-the-badge)
 
 </div>
 
