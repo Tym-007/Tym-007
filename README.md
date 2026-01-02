@@ -16,7 +16,7 @@ I'm a professional who thrives at the unique intersection of law, technology, en
 
 In my work, I build intelligent systems that help legal professionals navigate complex regulations and documents more effectively. From AI-powered legal assistants to regulatory compliance tools, I focus on creating solutions that make a real difference in how law and technology work together.
 
-What makes my approach unique? Years of studying and performing Chopin's compositions have taught me that true mastery comes from balancing technical precision with emotional depth. This philosophy translates directly into my work: whether I'm architecting a complex AI system or analyzing legal frameworks, I bring the same attention to detail, creative problem-solving, and dedication to excellence that I've cultivated at the piano.
+What makes my approach unique? Years of studying and performing Chopin's compositions have taught me that true mastery comes from balancing technical precision with emotional depth. This philosophy translates directly into my work: whether I'm architecting a complex AI system or analyzing legal frameworks, I bring the same attention to detail, creative problem-solving, and dedication to excellence that I've cultivated over all these years.
 
 ---
 
