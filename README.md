@@ -69,7 +69,7 @@ Engaged in social activities and supporting local initiatives.
 
 ## 💡 Interests
 
-- ⚖️ Law, particularly the implementation of new technologies in law
+- ⚖️ Law, with a focus on legal technology and the implementation of new technologies in legal practice
 - 💻 Programming and new technologies
 - 🎹 Classical music
 - 🤖 Artificial intelligence and machine learning
